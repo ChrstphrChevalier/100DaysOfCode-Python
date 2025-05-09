@@ -1,3 +1,5 @@
+# <p align="center"> ![image](https://github.com/user-attachments/assets/8739a22b-0609-419e-b357-a4ef81b3ce05) </p>
+
 ## <p align="center">100 Days of Code - Python Beginner Projects</p>
 ### <p align="center">#Days 1 à 14</p>
 
