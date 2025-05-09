@@ -1,3 +1,5 @@
+# <p align="center"> ![image](https://github.com/user-attachments/assets/8739a22b-0609-419e-b357-a4ef81b3ce05) </p>
+
 ## <p align="center"> Calculator - Calculatrice en Python </p>
 ### <p align="center"> #Day10 </p>
 
