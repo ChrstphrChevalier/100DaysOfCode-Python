@@ -1,5 +1,7 @@
+# <p align="center"> ![image](https://github.com/user-attachments/assets/8739a22b-0609-419e-b357-a4ef81b3ce05) </p>
+
 ## <p align="center"> Band Name Generator - Générateur de nom de groupe en Python </p>
-### <p align="center"> #Day03 </p>
+### <p align="center"> #Day01 </p>
 
 #### Aperçu
 **Band Name Generator** est un mini-projet Python conçu pour générer un nom de groupe original en combinant deux entrées utilisateur : le nom de leur ville natale et celui de leur animal de compagnie. Ce projet a pour objectif de se familiariser avec les **fondamentaux de Python**, notamment l’entrée utilisateur, les variables, et la concaténation de chaînes de caractères.
