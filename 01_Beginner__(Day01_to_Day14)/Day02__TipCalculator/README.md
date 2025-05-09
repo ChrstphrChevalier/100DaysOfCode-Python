@@ -1,4 +1,4 @@
-## <p align="center"> Tip Calculator - Calculateur de pourboire en Python </p>
+## <p align="center"> #Day02 - Tip Calculator - Calculateur de pourboire en Python </p>
 
 ### Aperçu
 **Tip Calculator** est un petit programme en Python qui permet de calculer automatiquement le montant que chaque personne doit payer après avoir ajouté un pourboire à l'addition totale. Ce projet met en pratique les **entrées utilisateur**, la **conversion de types**, les **opérations arithmétiques**, et la **formattation de sortie**.
