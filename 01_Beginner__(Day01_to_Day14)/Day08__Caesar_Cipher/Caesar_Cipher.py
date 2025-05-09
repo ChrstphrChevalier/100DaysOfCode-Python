@@ -31,6 +31,3 @@ while True:
     if again != "yes":
         print("GoodBye :)")
         break
-
-
-
