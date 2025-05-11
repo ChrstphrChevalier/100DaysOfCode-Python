@@ -1,71 +1,74 @@
-# Day 70: Git, Github, and Version Control
+# <p align="center"> ![image](https://github.com/user-attachments/assets/9d1cc291-e667-4ba6-976a-6b88f5a24776) </p>
 
-## Overview
+## <p align="center"> Git, GitHub et le contrôle de version </p>
+### <p align="center"> #Day70 </p>
 
-- Topics: Summary of Git, Github, and Version Control 
-- Git Commands, Creating a Remote Repository, Creating Files (.gitignore), Branching, Merging, Cloning, Forking, Pull vs Push Requests
+### Présentation
 
-### Links
+- Sujets : Résumé de Git, GitHub et le contrôle de version
+- Commandes Git, Création d'un dépôt distant, Création de fichiers (.gitignore), Branchement, Fusion, Clonage, Forking, Requêtes Pull et Push
 
-- Solution URL: [Git, Github, and Version Control](https://github.com/Mikerniker/100_Days_of_Python/tree/main/Day70)
-- No exercise except for the Project folder to practice some of the commands.
+### Liens
 
-### References
-- [Github GitIgnore](github.com/gitHub/gitignore) a repository owned by the GitHub team for Git Ignore, which is a pre-made collection of useful git ignore templates.
-- [Beginner Friendly Repos](https://github.com/MunGell/awesome-for-beginners)
-- [Wordle Game Repo](https://github.com/ritik48/Wordle-Game)
-- [Git Exercises](https://learngitbranching.js.org/) Complete the challenges here to dive deeper into Git, including learning about Cherry-Picking, Git Rebase, and more. 
+- URL de la solution : [Git, GitHub et le contrôle de version](https://github.com/Mikerniker/100_Days_of_Python/tree/main/Day70)
+- Aucun exercice, sauf le dossier Projet à Pratiquez quelques commandes.
+
+### Références
+- [GitHub GitIgnore](github.com/gitHub/gitignore) est un dépôt appartenant à l'équipe GitHub pour Git Ignore, une collection prédéfinie de modèles Git Ignore utiles.
+- [Dépôts adaptés aux débutants](https://github.com/MunGell/awesome-for-beginners)
+- [Dépôt de jeux de mots](https://github.com/ritik48/Wordle-Game)
+- [Exercices Git](https://learngitbranching.js.org/) Relevez les défis ici pour approfondir vos connaissances de Git, notamment le cherry-picking, le rebase de Git, et bien plus encore.
 
 ### Notes
-Git Commands (Windows)
+Commandes Git (Windows)
 - ```git status```
 - ```git init```
 - ```git add .```
 - ```git commit -m```
-- ```git push```  Pushes to github
-- ```git push origin main -u```  Pushes to github
-- ```git rm --cached -r .```  Use this to remove files from my staging area / undo the last step. 
-- ```git log```  This lets you see what commits you have made
-- ```clear``` (to clear terminal)
-- To exit the “git log” operation, press the “q” key
+- ```git push``` Envoie vers GitHub
+- ```git push origin main -u``` Envoie vers GitHub
+- ```git rm --cached -r .``` Utilisez ceci pour supprimer des fichiers de ma zone de préparation / annuler la dernière étape.
+- ```git log``` Cela vous permet de voir les commits que vous avez effectués.
+- ```clear``` (pour vider le terminal)
+- Pour quitter l'opération « git log », appuyez sur la touche « q ».
 
-Create Remote Repository
-- ```git remote add <name> <url>```
-- ```git push -u <remote name>  <branch name>```  Pushes local repository to the remote repository. 
+Créer un dépôt distant
+- ```git remote add <nom> <url>```
+- ```git push -u <nom distant> <nom de la branche>``` Pousse le dépôt local vers le dépôt distant.
 
-To Create a file:
-- ```touch name-of-file.filetype```
+Pour créer un fichier :
+- ```touch nom-du-fichier.type-de-fichier```
 
-To Create a GitIgnore File:
+Pour créer un fichier GitIgnore :
 - ```touch .gitignore```
-- ```code .gitignore```  (Open GitIgnore for Windows)
+- ```code .gitignore``` (Ouvrir GitIgnore pour Windows)
 
-To Clone a repository
-  - ```git clone url```
+Pour cloner un dépôt
+- ```git clone url```
 
-To Create a BRANCH
-- git branch name-of-branch
-- git branch (Use this to see which branch you are on)
+Pour créer une BRANCHE
+- git branch nom-de-la-branche
+- git branch (Utilisez ceci pour voir sur quelle branche vous vous trouvez)
 
-TO MERGE the branches
-- git merge name-of-branch
-- Steps:
-1. Go back to the main branch
+Pour fusionner les branches
+- git merge nom-de-la-branche
+- Étapes :
+1. Retourner à la branche principale
 git checkout main
-2. Merge
-git merge name-of-branch
-Note: if VIM comes out, type ```:q!```  (to save and quit)
+2. Fusionner
+git merge nom-de-la-branche
+Remarque : si VIM s’ouvre, saisissez « :q! » (pour enregistrer et quitter)
 
-To SWITCH to BRANCH
-- git checkout name-of-branch
+Pour basculer vers une BRANCHE
+- git checkout nom-de-la-branche
 
-GIT CLONE vs FORKING
-- Git clone is  grabbing at the entirety of the repository and then cloning it to your local work environment. Git clone is useful with a trusted team that has read and write permissions, they can work on it locally/ push it and resolve conflicts 
-- Forking is copying / duplicating a remote repository that's hosted on GitHub and keeping the copy under your own GitHub account where you can make changes to it. Once you've forked a remote repository, then you can do whatever you want to it.
-- Forking allows an external user to do what they want: add features / improve code base, add more code etc.
+GIT CLONE vs. FORKING
+- Git clone récupère l'intégralité du dépôt, puis le clone dans votre environnement de travail local. Git clone est utile avec une équipe de confiance disposant des droits de lecture et d'écriture. Elle peut travailler dessus en local, le pousser et résoudre les conflits.
+- Le fork consiste à copier/dupliquer un dépôt distant hébergé sur GitHub et à conserver la copie sur votre propre compte GitHub, où vous pouvez y apporter des modifications. Une fois le fork d'un dépôt distant créé, vous pouvez en faire ce que vous voulez.
+- Le fork permet à un utilisateur externe de faire ce qu'il veut : ajouter des fonctionnalités, améliorer la base de code, ajouter du code, etc.
 
 PULL REQUESTS
-- If external user wants the original creator of the repo to incorporate any changes they made, then make a pull request. Original owner decides whether or not to incorporate aka "merge" those requests.
+- Si un utilisateur externe souhaite que le créateur original du dépôt intègre ses modifications, il peut effectuer une pull request. Le propriétaire original décide d'intégrer ou non ces demandes, autrement dit de les fusionner.
 
 vs PUSH REQUESTS
-- You can do this with your own repository or your own copy of a repository
+- Vous pouvez utiliser votre propre dépôt ou une copie de dépôt.
