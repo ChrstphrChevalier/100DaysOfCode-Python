@@ -4,6 +4,10 @@
 
 ### <p align="center"> #Day82 </p>
 
+### Énoncé
+
+-> Faire un programme Python basé sur du texte pour convertir des chaînes en code Morse.
+
 ### Aperçu
 
 **Morse Pro** est une bibliothèque Python permettant d'encoder et de décoder des messages en code Morse de manière simple et rapide. Que ce soit pour des applications de communication, des projets éducatifs, ou simplement pour découvrir le code Morse, **Morse Pro** fournit une solution pratique à travers Python.
