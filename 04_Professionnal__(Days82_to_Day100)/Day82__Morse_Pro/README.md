@@ -8,13 +8,13 @@
 
 **Morse Pro** est une bibliothèque Python permettant d'encoder et de décoder des messages en code Morse de manière simple et rapide. Que ce soit pour des applications de communication, des projets éducatifs, ou simplement pour découvrir le code Morse, **Morse Pro** fournit une solution pratique à travers Python.
 
-### Compétences acquises
+### Compétences Utilisés
 - **Programmation Python** : Développement d'un module Python structuré avec gestion de fichiers et modules.
 - **Traitement de texte** : Manipulation de chaînes de caractères pour convertir entre texte et code Morse.
 - **Tests unitaires** : Mise en place de tests pour assurer la fiabilité du code (avec `unittest` ou `pytest`).
 - **Packaging et distribution** : Création d'une bibliothèque Python publiée sur PyPI.
 
-### Partie obligatoire
+### Mise en Oeuvre
 - **Encodage du texte** : Conversion du texte en une chaîne de code Morse, caractère par caractère.
 - **Décodage du Morse** : Retour du code Morse à son texte d'origine, gestion des erreurs de formatage.
 - **Tests** : Tests unitaires pour s'assurer que les fonctions d'encodage et de décodage fonctionnent correctement.
