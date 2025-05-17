@@ -41,4 +41,4 @@
 
 C’est un projet utile, concret et facilement réutilisable pour des cas d’usage réels (publication sur réseaux sociaux, protection de photos, etc.). Il peut évoluer vers un outil plus avancé avec des **logos en filigrane**, **glisser-déposer d’image**, ou l’export vers plusieurs formats (**PNG, JPG, PDF**).
 
----
+##
