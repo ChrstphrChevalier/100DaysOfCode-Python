@@ -29,3 +29,4 @@
 
 Ce projet est idéal pour apprendre les bases du **développement web**, de la gestion d’**interfaces dynamiques**, et de l’**automatisation CI/CD**. Il peut évoluer avec des fonctionnalités avancées comme une **API REST**, une **base de données** (**PostgreSQL**, **SQLite**), ou une intégration **multilingue**.
 
+##
