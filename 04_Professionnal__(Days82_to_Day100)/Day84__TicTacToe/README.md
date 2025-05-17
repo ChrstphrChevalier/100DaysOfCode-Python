@@ -30,4 +30,4 @@
 
 Le projet peut évoluer avec des améliorations comme une IA plus intelligente (utilisant l’algorithme **Minimax**), une sauvegarde des scores dans une base de données, ou une interface graphique plus stylisée avec des thèmes personnalisables.
 
-
+##
