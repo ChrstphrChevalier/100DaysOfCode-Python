@@ -1,16 +1,16 @@
 # <p align="center"> ![image](https://github.com/user-attachments/assets/973b6d5f-7202-4b73-a622-498e2766e50b) </p>
 
-## 📝 Ma Todo List – Gérez Vos Tâches Simplement
+## <p align="center"> Ma Todo List – Gérez Vos Tâches Simplement </p>
 
-### #Day89
+### <p align="center"> #Day89 </p>
 
-### 🚀 Aperçu
+### Aperçu
 
 **Ma Todo List** est une application web développée avec **Flask** pour permettre aux utilisateurs de gérer leurs tâches de manière simple et intuitive.
 Construite avec **Python**, **Flask**, **SQLite** et du **CSS personnalisé**, cette application permet d’**ajouter**, **marquer comme terminées**, et **supprimer** des tâches.
 L’interface épurée, stylisée avec un design responsive et une esthétique minimaliste, offre une expérience utilisateur fluide pour organiser ses activités quotidiennes.
 
-### 🧠 Compétences utilisées
+### Compétences utilisées
 
 * 🔹 **Développement web avec Flask** : gestion des routes, des formulaires et des interactions avec la base de données.
 * 🔹 **Gestion de base de données avec SQLite** : création et manipulation d’une base légère pour stocker les tâches.
@@ -20,53 +20,53 @@ L’interface épurée, stylisée avec un design responsive et une esthétique m
 * 🔹 **Structure modulaire** : séparation du code (Python, HTML, CSS) pour une meilleure maintenabilité.
 * 🔹 **Programmation Python** : logique backend complète avec opérations CRUD.
 
-### ⚙️ Mise en œuvre
+### Mise en œuvre
 
-#### 🧑‍💻 Interface utilisateur
+#### Interface utilisateur
 
-* 🏠 **Page d'accueil (`index.html`)** :
+* **Page d'accueil (`index.html`)** :
   Affiche la liste des tâches, leur contenu, leur statut (terminée ou non), avec des boutons emoji : ✅ (terminer) et ❌ (supprimer).
 
-* ➕ **Formulaire d’ajout** :
+* **Formulaire d’ajout** :
   Champ texte et bouton pour ajouter une tâche.
 
-* 📱 **Design responsive** :
+* **Design responsive** :
   Mise en page fluide, largeur maximale de 600px, adaptée aux écrans mobiles et desktop.
 
 
-#### 🔧 Logique backend
+#### Logique backend
 
-* 🔁 **Routes Flask** :
+* **Routes Flask** :
 
   * `GET /` : afficher les tâches
   * `POST /add` : ajouter une tâche
   * `GET /done/<task_id>` : marquer une tâche comme terminée
   * `GET /delete/<task_id>` : supprimer une tâche
 
-* 🗃️ **Base de données SQLite** :
+* **Base de données SQLite** :
   Table `tasks` avec les champs `id`, `content`, `done`.
 
-* ⚙️ **Opérations CRUD** :
+* **Opérations CRUD** :
   Création, lecture, mise à jour et suppression des tâches.
 
-* 📥 **Initialisation automatique** :
+* **Initialisation automatique** :
   Création de la base SQLite si elle n’existe pas, avec un schéma simple.
 
-#### 🎨 Design
+#### Design
 
-* ✨ **Esthétique visuelle** :
+* **Esthétique visuelle** :
   Fond gris clair, tâches affichées dans des boîtes blanches avec une bordure latérale colorée :
 
   * noire pour les tâches en cours
   * verte pour les tâches terminées
 
-* 🎭 **Éléments interactifs** :
+* **Éléments interactifs** :
   Texte barré + opacité réduite pour les tâches terminées.
 
-* 🧭 **Expérience utilisateur** :
+* **Expérience utilisateur** :
   Interface intuitive, formulaire simple, emojis pour des actions rapides.
 
-### 💡 Pourquoi ce projet est pertinent
+### Pourquoi ce projet est pertinent
 
 **Ma Todo List** est un projet idéal pour démontrer des compétences en **développement web full-stack avec Python**.
 Il illustre la maîtrise du **backend** (Flask, SQLite), du **frontend** (HTML, CSS, Jinja2) et de la **gestion de base de données**.
