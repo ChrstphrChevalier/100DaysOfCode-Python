@@ -1,0 +1,77 @@
+body {
+  background-color: #f8f9fa;
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+.gold-gradient {
+  background: linear-gradient(45deg, #bfa046, #ffdd73);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.nespresso-font {
+  font-family: 'Playfair Display', serif;
+}
+
+.nespresso-slogan {
+  font-family: 'Cormorant Garamond', serif;
+  font-style: italic;
+}
+
+.hero-section {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  padding: 2rem;
+}
+
+.gold-btn {
+  background: linear-gradient(45deg, #bfa046, #ffdd73);
+  border: none;
+  color: #fff;
+  font-weight: bold;
+  padding: 0.6rem 1.2rem;
+  border-radius: 8px;
+  transition: background 0.3s;
+}
+
+.gold-btn:hover {
+  background: linear-gradient(45deg, #ffdd73, #bfa046);
+  color: #fff;
+}
+
+/* Dégradé bleu ciel */
+.blue-gradient {
+  background: linear-gradient(45deg, #007bff, #87ceeb);
+  border: none;
+  color: white;
+  font-weight: bold;
+  padding: 0.4rem 0.8rem;
+  border-radius: 8px;
+  transition: background 0.3s;
+}
+
+.blue-gradient:hover {
+  background: linear-gradient(45deg, #87ceeb, #007bff);
+  color: white;
+}
+
+/* Dégradé rouge pour suppression */
+.red-gradient {
+  background: linear-gradient(45deg, #dc3545, #ff7f7f);
+  border: none;
+  color: white;
+  font-weight: bold;
+  padding: 0.4rem 0.8rem;
+  border-radius: 8px;
+  transition: background 0.3s;
+}
+
+.red-gradient:hover {
+  background: linear-gradient(45deg, #ff7f7f, #dc3545);
+  color: white;
+}
