@@ -39,3 +39,5 @@
 ### Pourquoi ce projet est pertinent
 
 **WorkCoffee** est un projet idéal pour démontrer des compétences en **développement web full-stack** avec **Python** et **Flask**. Il illustre la maîtrise du **développement backend** (Flask, SQLAlchemy), du **design frontend** (Bootstrap, CSS personnalisé) et de la **gestion de bases de données** (SQLite). L’application répond à un besoin réel des travailleurs à distance et des amateurs de café, offrant une solution pratique pour trouver des espaces de travail productifs. Sa structure modulaire et son design responsive en font une base solide pour des améliorations futures, comme l’authentification utilisateur, la recherche ou l’ajout d’images.
+
+##
