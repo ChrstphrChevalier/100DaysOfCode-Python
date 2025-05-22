@@ -8,6 +8,8 @@
 
 **ColorScan** est une application web développée avec **Flask**, **Pillow**, **NumPy**, et **scikit-learn**, permettant aux utilisateurs de **télécharger une image** et d’**extraire automatiquement une palette des couleurs dominantes**. L’utilisateur peut spécifier le **nombre de couleurs** à extraire (de 1 à 20), visualiser l’image uploadée, et obtenir une **palette de couleurs** avec leurs codes **HEX** et **RGB**. L’application est hébergée sur **Render** et inclut un système de **nettoyage automatique** des fichiers uploadés pour optimiser l’espace serveur.
 
+- Accès au projet : 👉 [ColorScan sur Render](https://colorscan-l50i.onrender.com)
+
 ### Compétences Utilisées
 
 - **Développement web avec Flask** : Création d’une application web légère avec gestion des routes, formulaires, et rendu de templates dynamiques.
