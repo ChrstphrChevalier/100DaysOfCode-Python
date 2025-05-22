@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <title>ColorScan</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;500&family=Playfair+Display:wght@500&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <h1>ColorScan</h1>
+
+        <form method="POST" enctype="multipart/form-data">
+            <div class="form-group">
+                <label for="image">Sélectionner une image</label>
+                <input type="file" name="image" accept="image/*" required>
+            </div>
+
+            <div class="form-group">
+                <label for="num_colors">Nombre de couleurs à extraire</label>
+                <input type="number" name="num_colors" min="1" max="20" value="5" required>
+            </div>
+
+            <button type="submit">Analyser</button>
+        </form>
+
+        {% if image_path %}
+        <div class="results">
+            <h2>Image analysée :</h2>
+            <img src="{{ url_for('static', filename='uploads/' + image_path) }}" alt="Image uploadée">
+
+            <h2>Palette extraite :</h2>
+            <div class="palette">
+                {% for color in colors %}
+                <div class="color-block" style="background-color: {{ color.hex }};">
+                    <div class="color-info">
+                        <span>{{ color.hex }}</span>
+                        <span>{{ color.rgb }}</span>
+                    </div>
+                </div>
+                {% endfor %}
+            </div>
+        </div>
+        {% endif %}
+    </div>
+</body>
+</html>
