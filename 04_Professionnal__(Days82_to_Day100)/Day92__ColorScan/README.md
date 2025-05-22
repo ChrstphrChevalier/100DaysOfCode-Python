@@ -1,6 +1,6 @@
 # <p align="center"> ![image](https://github.com/user-attachments/assets/973b6d5f-7202-4b73-a622-498e2766e50b) </p>
 
-## <p align="center"> ColorScan - Dominant Color Extraction Web App </p>
+## <p align="center"> ColorScan - Application Web d'extraction de couleurs dominantes </p>
 
 ### <p align="center"> #Day92 </p>
 
