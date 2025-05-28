@@ -1,0 +1,2 @@
+flask-bootstrap5==0.1.dev1
+requests==2.32.3
