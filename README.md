@@ -6,7 +6,7 @@
 
 ## 🎯 Aperçu du Challenge
 
-Le **#100DaysOfCode** est un défi quotidien visant à renforcer ses compétences en codant chaque jour pendant 100 jours.
+> 🎯 Plonger chaque jour dans la pratique du code, c’est forger des compétences réelles, solides et durables. À travers une progression continue et des projets concrets, j’ai transformé la théorie en expertise, ligne par ligne, pour faire de Python bien plus qu’un langage : un levier d’impact, d’innovation et d’expression technique.
 
 Au fil de ce parcours, j'ai :
 
@@ -23,7 +23,6 @@ Le tout dans une démarche rigoureuse de :
 * 💡 **UX soignée**
 * 📦 **Déploiement en production**
 
----
 
 ## 🧠 Compétences Développées
 
@@ -68,7 +67,6 @@ Le tout dans une démarche rigoureuse de :
 * Interfaces responsives, toggle dark/light
 * Expérience intuitive : transitions douces, feedback visuel
 
----
 
 ## 🏆 Réalisations Clés
 
@@ -82,7 +80,6 @@ Le tout dans une démarche rigoureuse de :
 | 🔐 Sécurité           | Password\_Manager (Fernet + keyring)            |
 | 🚀 Déploiement        | Apps hébergées sur Render, avec CI/CD           |
 
----
 
 ## 🌟 Projets Phares
 
@@ -97,7 +94,6 @@ Le tout dans une démarche rigoureuse de :
 | 🚀 **Morse Pro**            | Package PyPI de conversion Morse avec unit tests       |
 | 🕹️ **Space Invaders**      | Jeu Pygame avec collisions et niveaux                  |
 
----
 
 ## 📌 Conclusion
 
