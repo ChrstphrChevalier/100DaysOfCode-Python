@@ -1,6 +1,6 @@
 # <p align="center"> ![image](https://github.com/user-attachments/assets/973b6d5f-7202-4b73-a622-498e2766e50b) </p>
 
-## <h1 align="center">🚀 100 Days of Code - Python</h1>
+## <p align="center">🚀 100 Days of Code - Python</p>
 
 <p align="center">
 💡 <strong>Objectif :</strong> Devenir développeur Python complet en 100 jours grâce à une approche orientée projets, couvrant web, data, IA, automation, GUI et jeux.<br>
