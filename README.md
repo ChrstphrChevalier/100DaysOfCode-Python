@@ -2,15 +2,7 @@
 
 ## <p align="center">🚀 100 Days of Code - Python</p>
 
-<p align="center">
-💡 <strong>Objectif :</strong> Devenir développeur Python complet en 100 jours grâce à une approche orientée projets, couvrant web, data, IA, automation, GUI et jeux.
-</p>
-<p align="center">
-🗓️ <strong>Durée :</strong> 100 jours consécutifs
-</p>
-<p align="center">
-🧰 <strong>Technologies :</strong> Python, Flask, Pandas, scikit-learn, Tkinter, Streamlit, etc.
-</p>
+> 💡 Relever le pari de devenir **développeur Python complet en 100 jours**, c’est plus qu’un challenge technique — c’est une immersion totale dans l’univers du code. De la **data** à l’**IA**, du **développement web** à l’**automatisation**, en passant par les **interfaces graphiques** et les **jeux**, chaque projet a été une brique de plus vers une maîtrise concrète, moderne et créative du langage qui façonne l’avenir du numérique.
 
 ## 🎯 Aperçu du Challenge
 
