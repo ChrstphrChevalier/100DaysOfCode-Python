@@ -27,6 +27,10 @@ En plus d'être utile dans un contexte pédagogique, ce projet peut être intég
 
 ---
 
+[![PyPI version](https://badge.fury.io/py/morse-pro.svg)](https://pypi.org/project/morse-pro/)
+
+---
+
 ### 🔧 Installation
 
 ```bash
