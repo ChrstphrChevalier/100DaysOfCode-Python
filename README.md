@@ -4,68 +4,69 @@
 
 <p align="center">💡 Relever le pari de devenir développeur Python complet en 100 jours, c’est plus qu’un challenge technique, c’est une immersion totale dans l’univers du code. De la data à l’IA, du développement web à l’automatisation, en passant par les interfaces graphiques et les jeux, chaque projet a été une brique de plus vers une maîtrise concrète, moderne et créative du langage qui façonne l’avenir du numérique.</p>
 
-## 🎯 Aperçu du Challenge
+### <p align="center">🎯 Aperçu du Challenge</p>
 
 > 🎯 Plonger chaque jour dans la pratique du code, c’est forger des compétences réelles, solides et durables. À travers une progression continue et des projets concrets, j’ai transformé la théorie en expertise, ligne par ligne, pour faire de Python bien plus qu’un langage : un levier d’impact, d’innovation et d’expression technique.
 
-Au fil de ce parcours, j'ai :
 
-* 🌍 Créé des **applications web full-stack**
-* 🧠 Réalisé des **analyses de données avancées**
-* 🕹️ Développé des **jeux interactifs**
-* 🤖 Appliqué des **modèles de machine learning**
-* 🔧 Construit des **outils automatisés pour la productivité**
+### <p align="center">Au fil de ce parcours, j'ai :</p>
 
-Le tout dans une démarche rigoureuse de :
+<p align="center"> * 🌍 Créé des applications web full-stack </p>
+<p align="center"> * 🧠 Réalisé des analyses de données avancées </p>
+<p align="center"> * 🕹️ Développé des jeux interactifs </p>
+<p align="center"> * 🤖 Appliqué des modèles de machine learning </p>
+<p align="center"> * 🔧 Construit des outils automatisés pour la productivité </p>
 
-* ✅ **Code propre**
-* 🧩 **Architecture modulaire**
-* 💡 **UX soignée**
-* 📦 **Déploiement en production**
+### <p align="center">Le tout dans une démarche rigoureuse de :</p>
+
+<p align="center"> * ✅ Code propre </p>
+<p align="center"> * 🧩 Architecture modulaire </p>
+<p align="center"> * 💡 UX soignée </p>
+<p align="center"> * 📦 Déploiement en production </p>
 
 
-## 🧠 Compétences Développées
+### <p align="center"> 🧠 Compétences Développées</p>
 
-### 🐍 Python Moderne
+#### <p align="center"> 🐍 Python Moderne</p>
 
-* Syntaxe claire, f-strings, gestion d'exceptions (`try/except`)
-* Structures : listes, dicts, tuples, slicing, compréhensions
-* Programmation orientée objet : classes, héritage, encapsulation
+<p align="center">Syntaxe claire, f-strings, gestion d'exceptions (`try/except`)</p>
+<p align="center">Structures : listes, dicts, tuples, slicing, compréhensions</p>
+<p align="center">Programmation orientée objet : classes, héritage, encapsulation</p>
 
-### 🌐 Développement Web Full-Stack
+#### <p align="center">🌐 Développement Web Full-Stack</p>
 
-* **Flask** : Jinja2, sessions, formulaires sécurisés, authentification
-* **SQLAlchemy** : ORM, relations, migrations
-* **APIs REST** : endpoints sécurisés, JSON, intégration front-end
-* **UI Design** : Bootstrap 5, CSS custom, animations
+<p align="center"> * Flask : Jinja2, sessions, formulaires sécurisés, authentification </p>
+<p align="center"> * SQLAlchemy : ORM, relations, migrations </p>
+<p align="center"> * APIs REST : endpoints sécurisés, JSON, intégration front-end </p>
+<p align="center"> * UI Design : Bootstrap 5, CSS custom, animations </p>
 
-### 📊 Data Science & Visualisation
+#### <p align="center">📊 Data Science & Visualisation</p>
 
-* **Pandas** : nettoyage, transformation, agrégation
-* **Visualisation** : Seaborn, Plotly, Matplotlib
-* **Fusion & enrichissement** : multi-datasets, corrélations socio-économiques
+<p align="center"> * Pandas : nettoyage, transformation, agrégation </p>
+<p align="center"> * Visualisation : Seaborn, Plotly, Matplotlib </p>
+<p align="center"> * Fusion & enrichissement : multi-datasets, corrélations socio-économiques </p>
 
-### 🤖 Machine Learning & Vision
+#### <p align="center">🤖 Machine Learning & Vision</p>
 
-* scikit-learn : clustering (KMeans), classification (SGD)
-* OpenCV & Pillow : traitement d'image, détection, redimensionnement
+<p align="center"> * scikit-learn : clustering (KMeans), classification (SGD) </p>
+<p align="center"> * OpenCV & Pillow : traitement d'image, détection, redimensionnement </p>
 
-### ⚙️ Automation & DevOps
+#### <p align="center"> ⚙️ Automation & DevOps</p>
 
-* **Web Scraping** : BeautifulSoup, requests
-* **CLI Tools** : `argparse`, scripts utilitaires
-* **Déploiement** : Render, CI/CD GitHub Actions, cron
-* **Sécurité** : cryptage avec `Fernet`, `keyring` pour stockage protégé
+<p align="center"> * Web Scraping : BeautifulSoup, requests </p>
+<p align="center"> * CLI Tools : `argparse`, scripts utilitaires</p>
+<p align="center"> * Déploiement : Render, CI/CD GitHub Actions, cron </p>
+<p align="center"> * Sécurité : cryptage avec `Fernet`, `keyring` pour stockage protégé </p>
 
-### 🎮 Jeux & Interfaces Graphiques
+#### <p align="center"> 🎮 Jeux & Interfaces Graphiques</p>
 
-* **Pygame** : physique de jeu, animation, collisions
-* **Tkinter** : interfaces desktop, gestion des événements
+<p align="center"> * Pygame : physique de jeu, animation, collisions </p>
+<p align="center"> * Tkinter : interfaces desktop, gestion des événements </p>
 
-### 🎨 UX Design
+#### <p align="center"> 🎨 UX Design</p>
 
-* Interfaces responsives, toggle dark/light
-* Expérience intuitive : transitions douces, feedback visuel
+<p align="center"> * Interfaces responsives, toggle dark/light </p>
+<p align="center"> * Expérience intuitive : transitions douces, feedback visuel </p>
 
 
 ## 🏆 Réalisations Clés
@@ -94,13 +95,14 @@ Le tout dans une démarche rigoureuse de :
 | 🚀 **Morse Pro**            | Package PyPI de conversion Morse avec unit tests       |
 | 🕹️ **Space Invaders**      | Jeu Pygame avec collisions et niveaux                  |
 
+##
 
-## 📌 Conclusion
+## <p align="center">📌 Conclusion</p>
 
-Ce défi m’a permis de passer :
+<p align="center"> Ce défi m’a permis de passer :</p>
 
-* **du script au système complet**,
-* **du code au produit déployé**,
-* **du Python isolé à l’écosystème complet** (web, data, IA, cloud).
+<p align="center">du script au système complet,</p>
+<p align="center">du code au produit déployé,</p>
+<p align="center">du Python isolé à l’écosystème complet (web, data, IA, cloud).</p>
 
-🎓 Dans l’objectif de me spécialiser en data science, machine learning et cloud computing, ce parcours marque le début d’un voyage ambitieux : maîtriser l’un des langages les plus puissants et polyvalents de notre époque. Ces 100 jours ne sont pas qu’un défi, mais le premier chapitre d’une carrière tournée vers l’innovation, l’analyse de données à grande échelle et les systèmes intelligents. Python n’est plus un outil — c’est devenu mon allié pour bâtir l’avenir.
+> 🎓 Dans l’objectif de me spécialiser en data science, machine learning et cloud computing, ce parcours marque le début d’un voyage ambitieux : maîtriser l’un des langages les plus puissants et polyvalents de notre époque. Ces 100 jours ne sont pas qu’un défi, mais le premier chapitre d’une carrière tournée vers l’innovation, l’analyse de données à grande échelle et les systèmes intelligents. Python n’est plus un outil — c’est devenu mon allié pour bâtir l’avenir.
