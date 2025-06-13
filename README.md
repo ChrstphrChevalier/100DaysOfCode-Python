@@ -71,29 +71,30 @@
 
 ## 🏆 Réalisations Clés
 
-| Compétence            | Projets                                         |
-| --------------------- | ----------------------------------------------- |
-| 🛠️ Développement Web | WorkCoffee, Business Card, Ma Todo List         |
-| 📈 Analyse de données | Space\_Missions\_Analysis, Police\_Violence\_US |
-| 🧠 IA / ML            | DinoBot, ColorScan                              |
-| 🧩 Automation         | GitRadar, SpeakPDF                              |
-| 🎮 Jeux               | Space Invaders, Breakout, Tic Tac Toe           |
-| 🔐 Sécurité           | Password\_Manager (Fernet + keyring)            |
-| 🚀 Déploiement        | Apps hébergées sur Render, avec CI/CD           |
+| Compétence            | Projets                                                                                                                                 |
+| --------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
+| 🛠️ Développement Web | [WorkCoffee](https://github.com/ChrstphrChevalier/100DaysOfCode-Python/tree/main/04_Professionnal__(Days82_to_Day100)/Day88__WorkCoffee), [Business Card](https://github.com/ChrstphrChevalier/100DaysOfCode-Python/tree/main/04_Professionnal__(Days82_to_Day100)/Day83__Business_Card), [Ma Todo List](https://github.com/ChrstphrChevalier/100DaysOfCode-Python/tree/main/04_Professionnal__(Days82_to_Day100)/Day89__TodoList) |
+| 📈 Analyse de données | [Space_Missions_Analysis](https://github.com/ChrstphrChevalier/100DaysOfCode-Python/tree/main/04_Professionnal__(Days82_to_Day100)/Day99__Spaces_Missions), [Police_Violence_US](https://github.com/ChrstphrChevalier/100DaysOfCode-Python/tree/main/04_Professionnal__(Days82_to_Day100)/LastDay_100th__Police_Violence_US) |
+| 🧠 IA / ML            | [DinoBot](https://github.com/ChrstphrChevalier/100DaysOfCode-Python/tree/main/04_Professionnal__(Days82_to_Day100)/Day94__DinoBot), [ColorScan](https://github.com/ChrstphrChevalier/100DaysOfCode-Python/tree/main/04_Professionnal__(Days82_to_Day100)/Day92__ColorScan)                                   |
+| 🧩 Automation         | [GitRadar](https://github.com/ChrstphrChevalier/100DaysOfCode-Python/tree/main/04_Professionnal__(Days82_to_Day100)/Day93__GitRadar), [SpeakPDF](https://github.com/ChrstphrChevalier/100DaysOfCode-Python/tree/main/04_Professionnal__(Days82_to_Day100)/Day91__SpeakPDF)                                   |
+| 🎮 Jeux               | [Space Invaders](https://github.com/ChrstphrChevalier/100DaysOfCode-Python/tree/main/04_Professionnal__(Days82_to_Day100)/Day95__Space_Invaders), [Breakout](https://github.com/ChrstphrChevalier/100DaysOfCode-Python/tree/main/04_Professionnal__(Days82_to_Day100)/Day87__Breakout), [Tic Tac Toe](https://github.com/ChrstphrChevalier/100DaysOfCode-Python/tree/main/04_Professionnal__(Days82_to_Day100)/Day84__TicTacToe) |
+| 🔐 Sécurité           | [Password_Manager](https://github.com/ChrstphrChevalier/100DaysOfCode-Python/tree/main/04_Professionnal__(Days82_to_Day100)/Day98__Password_Manager)                                                                       |
+| 🚀 Déploiement        | Apps hébergées sur Render, avec CI/CD                                                                                                     |
 
 
 ## 🌟 Projets Phares
 
-| Projet                      | Description                                            |
-| --------------------------- | ------------------------------------------------------ |
-| 🧠 **DinoBot**              | Bot IA jouant à Dino Chrome via OpenCV + scikit-learn  |
-| 🎨 **ColorScan**            | Générateur de palettes par KMeans, interface Streamlit |
-| 🌐 **WorkCoffee**           | Plateforme Flask avec géolocalisation Google Maps      |
-| 🔐 **Password\_Manager**    | CLI avec cryptage, stockage sécurisé & export PDF      |
-| 📊 **Police\_Violence\_US** | Analyse socio-économique de violences policières       |
-| 📡 **GitRadar**             | Dashboard Streamlit d’analyse de dépôts GitHub         |
-| 🚀 **Morse Pro**            | Package PyPI de conversion Morse avec unit tests       |
-| 🕹️ **Space Invaders**      | Jeu Pygame avec collisions et niveaux                  |
+| Projet                                | Description                                                                 |
+| ------------------------------------- | --------------------------------------------------------------------------- |
+| 🧠 [**DinoBot**](https://github.com/ChrstphrChevalier/100DaysOfCode-Python/tree/main/04_Professionnal__(Days82_to_Day100)/Day94__DinoBot)               | Bot IA jouant à Dino Chrome via OpenCV + scikit-learn                        |
+| 🎨 [**ColorScan**](https://github.com/ChrstphrChevalier/100DaysOfCode-Python/tree/main/04_Professionnal__(Days82_to_Day100)/Day92__ColorScan)           | Générateur de palettes par KMeans, interface Streamlit                       |
+| 🌐 [**WorkCoffee**](https://github.com/ChrstphrChevalier/100DaysOfCode-Python/tree/main/04_Professionnal__(Days82_to_Day100)/Day88__WorkCoffee)         | Plateforme Flask avec géolocalisation Google Maps                            |
+| 🔐 [**Password_Manager**](https://github.com/ChrstphrChevalier/100DaysOfCode-Python/tree/main/04_Professionnal__(Days82_to_Day100)/Day98__Password_Manager) | CLI avec cryptage, stockage sécurisé & export PDF                        |
+| 📊 [**Police_Violence_US**](https://github.com/ChrstphrChevalier/100DaysOfCode-Python/tree/main/04_Professionnal__(Days82_to_Day100)/LastDay_100th__Police_Violence_US) | Analyse socio-économique de violences policières                   |
+| 📡 [**GitRadar**](https://github.com/ChrstphrChevalier/100DaysOfCode-Python/tree/main/04_Professionnal__(Days82_to_Day100)/Day93__GitRadar)             | Dashboard Streamlit d’analyse de dépôts GitHub                               |
+| 🚀 [**Morse Pro**](https://github.com/ChrstphrChevalier/100DaysOfCode-Python/tree/main/04_Professionnal__(Days82_to_Day100)/Day82__Morse_Pro)            | Package PyPI de conversion Morse avec unit tests                             |
+| 🕹️ [**Space Invaders**](https://github.com/ChrstphrChevalier/100DaysOfCode-Python/tree/main/04_Professionnal__(Days82_to_Day100)/Day95__Space_Invaders) | Jeu Pygame avec collisions et niveaux                                        |
+
 
 ##
 
