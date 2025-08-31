@@ -106,4 +106,6 @@
 <p align="center">du code au produit déployé,</p>
 <p align="center">du Python isolé à l’écosystème complet (web, data, IA, cloud).</p>
 
-> 🎓 Dans l’objectif de me spécialiser en data science, machine learning et cloud computing, ce parcours marque le début d’un voyage ambitieux : maîtriser l’un des langages les plus puissants et polyvalents de notre époque. Ces 100 jours ne sont pas qu’un défi, mais le premier chapitre d’une carrière tournée vers l’innovation, l’analyse de données à grande échelle et les systèmes intelligents. Python n’est plus un outil — c’est devenu mon allié pour bâtir l’avenir.
+> 🎓 Dans l’objectif de me spécialiser en développement logiciel, DevOps et cloud computing, ce parcours marque le début d’un chemin exigeant : maîtriser Python, langage polyvalent et incontournable de l’ingénierie moderne.  
+Ces 100 jours ne sont pas qu’un défi, mais une étape structurante d’une carrière tournée vers la conception d’outils fiables, l’automatisation des processus et le déploiement d’applications performantes.  
+Python n’est plus seulement un langage — c’est devenu un atout central pour construire des solutions concrètes et évolutives.
